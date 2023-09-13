@@ -13,7 +13,8 @@ npx hardhat run scripts/deploy.js
 ```
 A Hardhat Plugin For Replicable Deployments And Easy Testing
 
-A complete dev template using hardhat-deploy is available here: https://github.com/wighawag/template-ethereum-contracts It also contains various branches examplifying the capability of hardhat-deploy. Check it out.
+A complete dev template using hardhat-deploy.
+It also contains various branches https://github.com/Abhiyayo/Hardhat-Project.git. examplifying the capability of hardhat-deploy. Check it out.
 
 What is it for?
 hardhat-deploy in a nutshell
